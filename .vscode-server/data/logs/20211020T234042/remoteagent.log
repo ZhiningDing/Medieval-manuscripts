@@ -1,0 +1,23 @@
+[2021-10-20 23:40:42.288] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2021-10-20 23:40:42.288] [remoteagent] [info] Extension host agent listening on 33749
+[2021-10-20 23:40:42.718] [remoteagent] [info] ==> Received a management connection
+[2021-10-20 23:40:42.719] [remoteagent] [info] ==> Received an extension host connection.
+[2021-10-20 23:40:42.719] [remoteagent] [info] ==> Using UI language: en
+[2021-10-20 23:40:42.764] [remoteagent] [info] Scanning extensions using UI language: en
+[2021-10-20 23:41:02.655] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2021-10-20 23:41:04.944] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2021-10-20 23:41:04.944] [remoteagent] [info] Cancelling previous shutdown timeout
+[2021-10-20 23:41:05.053] [remoteagent] [info] ==> Received a management connection
+[2021-10-20 23:41:05.053] [remoteagent] [info] ==> Received an extension host connection.
+[2021-10-20 23:41:05.053] [remoteagent] [info] ==> Using UI language: en
+[2021-10-20 23:41:05.100] [remoteagent] [info] Scanning extensions using UI language: en
+[2021-10-20 23:46:04.946] [remoteagent] [info] New EH opened, aborting shutdown

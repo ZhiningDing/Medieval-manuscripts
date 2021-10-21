@@ -1,0 +1,12 @@
+[2021-10-20 23:41:06.293] [exthost] [info] extension host started
+[2021-10-20 23:41:06.346] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2021-10-20 23:41:06.346] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/angel/.vscode-server/bin/3db7e09f3b61f915d03bbfa58e258d6eee843f35/extensions/debug-auto-launch/dist/extension
+[2021-10-20 23:41:06.351] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2021-10-20 23:41:06.351] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/angel/.vscode-server/bin/3db7e09f3b61f915d03bbfa58e258d6eee843f35/extensions/emmet/dist/extension
+[2021-10-20 23:41:06.387] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2021-10-20 23:41:06.387] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/angel/.vscode-server/bin/3db7e09f3b61f915d03bbfa58e258d6eee843f35/extensions/git/dist/main
+[2021-10-20 23:41:06.461] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2021-10-20 23:41:06.462] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/angel/.vscode-server/bin/3db7e09f3b61f915d03bbfa58e258d6eee843f35/extensions/merge-conflict/dist/extension
+[2021-10-20 23:41:06.469] [exthost] [info] eager extensions activated
+[2021-10-20 23:41:44.185] [exthost] [info] ExtensionService#_doActivateExtension vscode.python {"startup":false,"activationEvent":"onLanguage:python"}
+[2021-10-20 23:41:44.185] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/angel/.vscode-server/bin/3db7e09f3b61f915d03bbfa58e258d6eee843f35/extensions/python/dist/pythonMain
